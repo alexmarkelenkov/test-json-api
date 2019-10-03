@@ -1,11 +1,6 @@
 {
  "users": [
      
-     {
-      "id" : 1,
-      "name" : "name1",
-      "role": "user"
-     }
-     
+
   ]
 }
